@@ -3,9 +3,9 @@
  
 <h3>🧐 Some Things About Me</h3>
 
- 👀 I’m interested in
- 🌱 I’m currently learning ...
- 💞️ I’m looking to collaborate on ...
- 📫 How to reach me ...
+ -💻 I am a Data analyst 
+ -🌱 I’m currently learning more on SQL 
+ -🏆 2023 Goal: Contribute more to Open Source Projects.
+ -📫 How to reach me ...
 
 
