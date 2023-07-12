@@ -3,7 +3,7 @@
  
 <h3>🧐 Some Things About Me</h3>
 
-  - 🌱 I’m currently learning more on **SQL** 
+  - 🌱 I’m currently learning more on **SQL** and data analytics as a whole. 
   - 🏆 2023 Goal: Contribute more to Open Source Projects.
   - 📫 How to reach me **ogochukwuogujinma2@gmail.com**
   - ⚡ Fun fact **Natural hair freak and a forex and crypto enthusiast** 
