@@ -6,4 +6,4 @@
   - 🌱 I’m currently learning more on data analytics as a whole. 
   - 🏆 2023 Goal: Contribute more to Open Source Projects.
   - 📫 How to reach me: **ogochukwuogujinma2@gmail.com**
-  - ⚡ Fun fact: **Afro hair freak and a Crypto/Blockchain Enthusiast** 
+  - ⚡ Fun fact: **Afro hair freak and a Crypto/Blockchain Enthusiast.**
